@@ -1,10 +1,7 @@
 
 
 
- __
-( o>
-///\    Flack#6666
-\V_/_
+
 
 
 <br clear="both">
