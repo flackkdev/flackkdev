@@ -1,4 +1,4 @@
-<br clear="both">
+
 
 
  __
@@ -6,8 +6,6 @@
 ///\    Flack#6666
 \V_/_
 
-
-###
 
 <br clear="both">
 
