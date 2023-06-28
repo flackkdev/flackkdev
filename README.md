@@ -1,4 +1,4 @@
-<h4 align="left">__<br><(o )___<br> ( ._> /<br>  `---'          Flack#6666</h4>
+<h4 align="left"> __ <br><(o )___<br> ( ._> /<br>  `---'          Flack#6666</h4>
 
 ###
 
@@ -20,7 +20,6 @@
 ###
 
 <div align="left">
-  <a href="https//discord.gg/batmancm" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=123&logoColor=white&labelColor=123&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
 </div>
